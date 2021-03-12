@@ -2,6 +2,8 @@
 
 Repository to reproduce analyses from "On the Impact of Batch Effect Correction in TCGA IsomiR Expression Data". Upon execution of the scripts, TCGA data is downloaded to the /data folder, and figures or analysis results are stored in a /results folder. 
 
+Manuscript published in NAR Cancer, Volume 3, Issue 1, March 2021: https://doi.org/10.1093/narcan/zcab007
+
 ## Author affiliations
 
 Susanne Ibing<sup>1,a</sup>, Birgitta Michels<sup>2</sup>, Moritz Mosdzien<sup>2</sup>, Helen R. Meyer<sup>2</sup>,Lars Feuerbach<sup>1</sup>, Cindy Körner<sup>2,</sup>*
